@@ -6,6 +6,7 @@ public static void main(String[] args){
         System.out.println(name);
         System.out.println("sgv");
         System.out.println("MAHENDRA");
+        System.out.println("Ganesh");
 
 }
 }
