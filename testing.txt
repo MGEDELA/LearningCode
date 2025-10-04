@@ -1,1 +1,4 @@
 First message
+MODIFYING
+checking squashing
+checking rebasing
