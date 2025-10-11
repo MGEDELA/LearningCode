@@ -1,6 +1,6 @@
 package IntegersCoding;
 
-public class DigitsCounnt {
+public class DigitsCount {
 
     public static int digitsCountInaNumber(int num){
         int count = 0;
