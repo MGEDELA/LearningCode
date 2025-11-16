@@ -3,6 +3,7 @@ package IntegersCoding;
 public class IsPrime {
 
     public static boolean isPrime(int num){
+
         boolean isPrime = false;
         int count = 0;
 

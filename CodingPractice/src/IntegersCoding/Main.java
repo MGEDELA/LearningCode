@@ -2,8 +2,9 @@ package IntegersCoding;
 
 public class Main {
     public static void main(String[] args) {
+
+         PrimeNumbers.countPrimeNumbersUpToN(1, 50);
         
-        System.out.println(GCD.greatestCommonDivisor(21, 49));
        
     }
 
